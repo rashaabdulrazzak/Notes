@@ -24,4 +24,4 @@ You can visit the link [here](https://rasha-notesp.herokuapp.com/) and play the 
 - Move to the repository folder on your machine.
 - Run npm install
 - Run node sevrver.js
-- To be able to use mongodb you need to create your own database name and linke it in <code>Datbase</code> file.
+- To be able to use mongodb you need to create your own database name and linke it in <code>Database</code> file.
