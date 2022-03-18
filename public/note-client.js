@@ -1,4 +1,4 @@
-//const baseUrl = "http://localhost:3000";
+// const baseUrl = "http://localhost:3000";
 async function addNote(noteData) {
   const response = await fetch(`/notes`, {
     method: "POST",
