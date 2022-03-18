@@ -1,6 +1,7 @@
 ﻿# Notes
 
-Notes app: it is a full-stuck application that offers the essential 'CRUD' operations for any notes you add.Beside that you can search for a specific title note. You can Also modifiy a specific note or delete it.
+Notes app: it is a full-stuck application that offers the essential 'CRUD' operations for any notes you have.
+Beside that, you can search for a specific title of the notes.Also, You can modify a specific note or delete it.
 
 ## Tecnologies:
 
